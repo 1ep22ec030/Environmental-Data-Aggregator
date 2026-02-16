@@ -13,54 +13,54 @@ This system can be extended for real-time weather monitoring, smart agriculture,
 
 ## Objectives
 
-To simulate environmental data collection,
-To send data to cloud using messaging service,
-To visualize data using cloud monitoring tools,
-To understand IoT + Cloud integration.
+-To simulate environmental data collection,
+-To send data to cloud using messaging service,
+-To visualize data using cloud monitoring tools,
+-To understand IoT + Cloud integration.
 
 ---
 
 ## Technologies Used
-Python
-Google Cloud Platform
-Cloud Pub/Sub
-Raspberry Pi (conceptual/demo)
-Command Prompt
+-Python
+-Google Cloud Platform
+-Cloud Pub/Sub
+-Raspberry Pi (conceptual/demo)
+-Command Prompt
 
 ---
 
 ## How It Works
-Environmental data is generated using Python code.
-Data is sent to Cloud Pub/Sub topic.
-Cloud services receive and process the data.
-Graphs and metrics are displayed in cloud console.
+-Environmental data is generated using Python code.
+-Data is sent to Cloud Pub/Sub topic.
+-Cloud services receive and process the data.
+-Graphs and metrics are displayed in cloud console.
 
 ---
 
 ## Output
-Real-time data transmission
-Monitoring graphs in cloud dashboard
-Successful message publishing and pulling
+-Real-time data transmission
+-Monitoring graphs in cloud dashboard
+-Successful message publishing and pulling
 
 ---
 
 ## Applications
-Smart cities
-Pollution monitoring
-Weather tracking
-Environmental research
+-Smart cities
+-Pollution monitoring
+-Weather tracking
+-Environmental research
 
 ---
 
 ## Developed By
-Fresher student passionate about IoT and Cloud Technologies 🚀
+-Fresher student passionate about IoT and Cloud Technologies 
 
 ---
 
 ## Future Improvements
-Add real sensors (temperature, humidity)
-Use actual Raspberry Pi hardware
-Mobile app dashboard
+-Add real sensors (temperature, humidity)
+-Use actual Raspberry Pi hardware
+-Mobile app dashboard
 
 ---
 
