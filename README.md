@@ -4,17 +4,17 @@
 ---
 
 ## Project Description
-## This project collects environmental data such as temperature, humidity, and air quality and sends it to the cloud for monitoring and analysis. The system uses cloud services to simulate real-time data transmission and visualization.
+This project collects environmental data such as temperature, humidity, and air quality and sends it to the cloud for monitoring and analysis. The system uses cloud services to simulate real-time data transmission and visualization.
 The goal of this project is to demonstrate how IoT devices can send environmental data to cloud platforms for smart city and environmental monitoring applications.
 
 ---
 
 ## Objectives
 
-To simulate environmental data collection
-To send data to cloud using messaging service
-To visualize data using cloud monitoring tools
-To understand IoT + Cloud integration
+To simulate environmental data collection,
+To send data to cloud using messaging service,
+To visualize data using cloud monitoring tools,
+To understand IoT + Cloud integration.
 
 ---
 
