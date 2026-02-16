@@ -4,8 +4,10 @@
 ---
 
 ## Project Description
-This project collects environmental data such as temperature, humidity, and air quality and sends it to the cloud for monitoring and analysis. The system uses cloud services to simulate real-time data transmission and visualization.
-The goal of this project is to demonstrate how IoT devices can send environmental data to cloud platforms for smart city and environmental monitoring applications.
+This project presents an Environmental Data Aggregator system that collects environmental parameters such as temperature, humidity, and atmospheric pressure and sends them to the cloud for storage and analysis. The system is designed using Raspberry Pi and environmental sensors like DHT22 and BMP180. The sensor data is read periodically using a Python script and transmitted to the cloud using a publish–subscribe messaging service.
+Due to hardware limitations, the sensor readings were simulated using Python to demonstrate the working of the system. The simulated data is generated at regular intervals and published to a cloud topic using Pub/Sub services available on Google Cloud Platform. A subscription is used to receive the data, thereby validating successful transmission.
+The project demonstrates how Internet of Things (IoT) devices can collect real-time environmental data and integrate with cloud platforms for remote monitoring, data storage, and future analytics. It also highlights handling of connectivity and authentication while sending data securely to the cloud.
+This system can be extended for real-time weather monitoring, smart agriculture, pollution tracking, and smart city applications.
 
 ---
 
